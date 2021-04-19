@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:webview_flutter/webview_flutter.dart';
+
 import 'package:flutter_graphql_sample/entity/issue.dart';
 
 class IssueDetailScreen extends StatelessWidget {

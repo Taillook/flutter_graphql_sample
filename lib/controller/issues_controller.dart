@@ -1,5 +1,6 @@
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:state_notifier/state_notifier.dart';
+
 import 'package:flutter_graphql_sample/repository/issues_repository.dart';
 import 'issues_state.dart';
 

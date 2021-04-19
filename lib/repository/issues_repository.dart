@@ -1,6 +1,7 @@
 import 'package:graphql/client.dart';
 import 'package:gql/language.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
+
 import 'package:flutter_graphql_sample/api/github_api.dart';
 import 'package:flutter_graphql_sample/entity/issue.dart';
 import 'package:flutter_graphql_sample/graphql/query/read_issues.dart';

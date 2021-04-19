@@ -1,5 +1,6 @@
 
 import 'package:freezed_annotation/freezed_annotation.dart';
+
 import 'package:flutter_graphql_sample/entity/issue.dart';
 
 part 'issues_state.freezed.dart';
