@@ -1,19 +1,10 @@
 # flutter_graphql_sample
 
-A new Flutter project.
+A Sample of GitHub API call with Flutter.  
 
-## Getting Started
+Use RiverPod + freezed + StateNofifier.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="303" alt="スクリーンショット 2021-04-19 13 04 43" src="https://user-images.githubusercontent.com/7601454/115482837-8a098b80-a28a-11eb-9e8c-9667a7dba0df.png"><img width="303" alt="スクリーンショット 2021-04-19 13 05 17" src="https://user-images.githubusercontent.com/7601454/115482850-8e35a900-a28a-11eb-9db0-77221baa48f7.png">
 
 ## Setup
 
